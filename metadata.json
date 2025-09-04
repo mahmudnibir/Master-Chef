@@ -1,0 +1,5 @@
+{
+  "name": "Pantry Chef AI",
+  "description": "Generate delicious recipes from the ingredients you have on hand. Pantry Chef AI helps you reduce food waste and discover new meal ideas with the power of Gemini.",
+  "requestFramePermissions": []
+}
